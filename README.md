@@ -42,10 +42,10 @@ Hi there! I'm Zweena, a passionate full-stack developer with a love for creating
 [Provide your contact information or social media links]
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?LorentzaZweena=LorentzaZweena&showicons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LorentzaZweena&showicons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?LorentzaZweena=LorentzaZweena&theme=onedark)
+![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=LorentzaZweena&theme=onedark)
 
 ## 📈 Most Used Languages
-![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?LorentzaZweena=LorentzaZweena&layout=compact)
+![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorentzaZweena&layout=compact)
