@@ -41,7 +41,7 @@ Hi there! I'm Zweena, a passionate full-stack developer with a love for creating
 ## 📫 How to reach me
 - Email: ariva02zweena@gmail.com
 - LinkedIn: linkedin.com/in/arivazweena
-- Instagram: ar02zwn
+- Instagram: [ar02zwn](https://www.instagram.com/ar07zwn/)
 - GitHub: github.com/LorentzaZweena
 
 ## 📊 GitHub Stats
