@@ -39,7 +39,10 @@ Hi there! I'm Zweena, a passionate full-stack developer with a love for creating
 [Mention the kind of projects you're interested in collaborating on]
 
 ## 📫 How to reach me
-[Provide your contact information or social media links]
+- Email: ariva02zweena@gmail.com
+- LinkedIn: linkedin.com/in/arivazweena
+- Instagram: ar02zwn
+- GitHub: github.com/LorentzaZweena
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LorentzaZweena&showicons=true&theme=radical)
