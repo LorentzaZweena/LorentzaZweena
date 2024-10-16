@@ -1,7 +1,9 @@
 # Hi there, I'm Zweena Ariva 👋
 
 ## 🚀 About Me
-Hi there! I'm Zweena, a passionate full-stack developer with a love for creating elegant, efficient solutions to complex problems. By day, I'm crafting robust web applications at a fintech startup, and by night, I'm exploring the fascinating world of machine learning and web. I'm always excited to learn new technologies and apply them to real-world scenarios. My goal is to contribute to open-source projects that make a positive impact on the developer community. I believe in the power of collaboration and knowledge sharing, which is why I actively participate in local tech meetups and occasionally blog about my coding adventures. When I'm not immersed in code, you can find me playing games, experimenting with new programming language, or curled up with a good non-fiction novel. I'm always open to interesting projects and collaborations, so feel free to reach out if you'd like to connect!
+Hi there! I'm Zweena, a passionate software engineer specializing in Web development using Laravel, PHP native, HTML CSS JS. I love tackling challenges and building innovative solutions.
+
+📫 Feel free to reach out!
 
 ## 🛠 Skills
 ### Programming Languages
