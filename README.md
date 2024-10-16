@@ -35,10 +35,7 @@ Hi there! I'm Zweena, a passionate software engineer specializing in Web develop
   - [GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/com/example/lorentza/suround)
 
 ## 🌱 I'm currently learning
-[Share what you're currently learning or improving on]
-
-## 👯 I'm looking to collaborate on
-[Mention the kind of projects you're interested in collaborating on]
+Currently learning about React and enhancing my skills in building responsive web applications. I'm also exploring CSS Grid and Flexbox for better layout design and improving my knowledge of RESTful APIs to create seamless user experiences.
 
 ## 📫 How to reach me
 - Email: ariva02zweena@gmail.com
