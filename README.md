@@ -51,7 +51,7 @@ You can listen to the full playlist on [Spotify here]([https://open.spotify.com/
 
 ## Playlist Preview
 
-[![Spotify Playlist]([https://i.pinimg.com/736x/95/4e/d5/954ed5d3668f5f976b8aeb753691bec9.jpg]([https://open.spotify.com/playlist/3PYYvJZdzm7MhppMzIUwRL?si=p1lRXKfeTweUaI5h1hSeUw])
+[Spotify Playlist]([https://i.pinimg.com/736x/95/4e/d5/954ed5d3668f5f976b8aeb753691bec9.jpg]([https://open.spotify.com/playlist/3PYYvJZdzm7MhppMzIUwRL?si=p1lRXKfeTweUaI5h1hSeUw])
 
 ## 📈 Most Used Languages
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorentzaZweena&layout=compact)
