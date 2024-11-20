@@ -51,4 +51,4 @@ Currently learning about React and enhancing my skills in building responsive we
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorentzaZweena&layout=compact)
 
 ## 📈 My spotify
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3PYYvJZdzm7MhppMzIUwRL?si=3bd8e8ca801c4d6e)
