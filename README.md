@@ -51,4 +51,5 @@ Currently learning about React and enhancing my skills in building responsive we
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorentzaZweena&layout=compact)
 
 ## 📈 My spotify
-[![Spotify][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cnbw9a86v4uj13blow70khs49&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cnbw9a86v4uj13blow70khs49&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false]          
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cnbw9a86v4uj13blow70khs49&redirect=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cnbw9a86v4uj13blow70khs49&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=false)
+          
