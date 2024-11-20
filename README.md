@@ -49,3 +49,6 @@ Currently learning about React and enhancing my skills in building responsive we
 
 ## 📈 Most Used Languages
 ![Your most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LorentzaZweena&layout=compact)
+
+## 📈 Most spotify
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
