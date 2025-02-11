@@ -18,6 +18,7 @@ Hi there! I'm Zweena, a passionate software engineer specializing in Web develop
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-EF4135?style=flat-square&logo=Laravel&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -29,10 +30,10 @@ Hi there! I'm Zweena, a passionate software engineer specializing in Web develop
 
 ## 🔭 I'm currently working on
 - 🚀 **Pelicia**: Pelicia is a sleek and user-friendly mobile application developed in Kotlin that allows movie enthusiasts to explore, discover, and manage their favorite films.
-  - [GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/Pelicia)
+  - ![GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/Pelicia)
 
 - 🌱 **Suround**: Suround is an innovative mobile application built with Kotlin that brings music to your fingertips. Designed for music lovers, Suround offers a rich and immersive experience for discovering.
-  - [GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/com/example/lorentza/suround)
+  - ![GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/com/example/lorentza/suround)
 
 ## 🌱 I'm currently learning
 Currently learning about React and enhancing my skills in building responsive web applications. I'm also exploring CSS Grid and Flexbox for better layout design and improving my knowledge of RESTful APIs to create seamless user experiences.
