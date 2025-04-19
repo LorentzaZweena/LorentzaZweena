@@ -28,16 +28,6 @@ Hi there! I'm Zweena, a passionate software engineer specializing in Web develop
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🔭 I'm currently working on
-- 🚀 **Pelicia**: Pelicia is a sleek and user-friendly mobile application developed in Kotlin that allows movie enthusiasts to explore, discover, and manage their favorite films.
-  - ![GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/Pelicia)
-
-- 🌱 **Suround**: Suround is an innovative mobile application built with Kotlin that brings music to your fingertips. Designed for music lovers, Suround offers a rich and immersive experience for discovering.
-  - ![GitHub Repo](https://github.com/LorentzaZweena/Lorentza-Project/tree/master/app/src/main/java/com/example/lorentza/suround)
-
-## 🌱 I'm currently learning
-Currently learning about React and enhancing my skills in building responsive web applications. I'm also exploring CSS Grid and Flexbox for better layout design and improving my knowledge of RESTful APIs to create seamless user experiences.
-
 ## 📫 How to reach me
 - Email: ariva02zweena@gmail.com
 - LinkedIn: linkedin.com/in/arivazweena
