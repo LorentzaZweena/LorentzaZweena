@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋! My name is Ariva Zweena</h1>
-
-###
-
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=LorentzaZweena&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&cache_bust=1" 
@@ -37,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://instagram.com/ar07zwn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -53,8 +48,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="banner" style="width: 80%; object-fit: cover;" 
-/>
-</p>
