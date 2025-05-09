@@ -1,3 +1,8 @@
+<!-- Banner at the top -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LorentzaZweena/LorentzaZweena/main/assets/banner.png" alt="banner" />
+</p>
+
 <h1 align="center">Hi 👋! My name is Ariva Zweena</h1>
 
 ###
