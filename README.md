@@ -54,12 +54,3 @@
   </a>
 </div>
 
----
-### 🎧 My Spotify activity
-<div align="center">
-  <a href="https://open.spotify.com/user/cnbw9a86v4uj13blow70khs49" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cnbw9a86v4uj13blow70khs49" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-
