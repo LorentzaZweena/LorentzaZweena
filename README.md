@@ -53,3 +53,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+---
+### 🎧 My Spotify activity
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=cnbw9a86v4uj13blow70khs49" alt="Recently Played Tracks" />
+</div>
+
