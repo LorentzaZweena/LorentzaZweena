@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+<div align="center"> 
 <a href="https://github.com/LorentzaZweena">
   <img 
     align="center" 
@@ -14,12 +14,11 @@
     alt="Repo per language"
   />
 </a>
-<a href="https://github.com/LorentzaZweena">
-  <img 
+<img 
     src="https://devcard.link/api/render?username=LorentzaZweena&style=github" 
     alt="Dev Card"
   />
-</a>
+</div>
 
 ---
 
