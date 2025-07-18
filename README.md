@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#8be9fd;">Ariva Zweena</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🎨 UI/UX Designer</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Design.+Create.;Passionate+Full+Stack+Developer;Crafting+seamless+web+experiences" alt="Typing SVG" />
@@ -7,13 +7,6 @@
 
 ---
 <div align="center"> 
-<a href="https://github.com/LorentzaZweena">
-  <img 
-    align="center" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorentzaZweena&theme=dracula" 
-    alt="Repo per language"
-  />
-</a>
 <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorentzaZweena&theme=dracula" 
     alt="Profile Summary Card"
@@ -38,7 +31,6 @@
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
