@@ -15,8 +15,8 @@
   />
 </a>
 <img 
-    src="https://devcard.link/api/render?username=LorentzaZweena&style=github" 
-    alt="Dev Card"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorentzaZweena&theme=dracula" 
+    alt="Profile Summary Card"
   />
 </div>
 
