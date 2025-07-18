@@ -7,18 +7,20 @@
 
 ---
 
-<div align="center">
+<a href="https://github.com/LorentzaZweena">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=LorentzaZweena&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="GitHub Stats" 
+    align="center" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LorentzaZweena&theme=dracula" 
+    alt="Repo per language"
   />
+</a>
+<a href="https://github.com/LorentzaZweena">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=LorentzaZweena&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="Top Languages" 
+    align="center" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorentzaZweena&theme=dracula" 
+    alt="Most committed languages"
   />
-</div>
+</a>
 
 ---
 
