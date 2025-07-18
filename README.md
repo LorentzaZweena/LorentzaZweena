@@ -8,7 +8,7 @@
 ---
 <div align="center"> 
 <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorentzaZweena&theme=dracula" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorentzaZweena&theme=github" 
     alt="Profile Summary Card"
   />
 </div>
@@ -26,7 +26,7 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
