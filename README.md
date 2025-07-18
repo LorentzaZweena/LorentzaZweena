@@ -16,9 +16,8 @@
 </a>
 <a href="https://github.com/LorentzaZweena">
   <img 
-    align="center" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LorentzaZweena&theme=dracula" 
-    alt="Most committed languages"
+    src="https://devcard.link/api/render?username=LorentzaZweena&style=github" 
+    alt="Dev Card"
   />
 </a>
 
