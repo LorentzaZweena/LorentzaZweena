@@ -6,14 +6,6 @@
 </p>
 
 ---
-<div align="center"> 
-<img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LorentzaZweena&theme=dark" 
-    alt="Profile Summary Card"
-  />
-</div>
-
----
 
 ### 🚀 Tech Stack
 <div align="center">
